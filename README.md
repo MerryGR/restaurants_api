@@ -3,3 +3,5 @@ Performs GET request on one of the chosen restaurants.
 
 Usage:
 
+<ul>
+</ul>
